@@ -10,9 +10,6 @@ This was a map created for my Temple Cartographic Design class in which we learn
 
 - <b>QGIS</b>
 
-<h2>Final Map Presentation</h2>
-
-https://github.com/user-attachments/files/18790396/final_map_v3.pdf
 
 <h2>Final Map </h2>
-
+[Final Map](https://github.com/user-attachments/files/18792304/final_map_v3.pdf)
