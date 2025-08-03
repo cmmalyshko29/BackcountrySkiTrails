@@ -12,4 +12,4 @@ This was a map created for my Temple Cartographic Design class in which we learn
 
 
 <h2>Final Map </h2>
-![Image](https://github.com/user-attachments/assets/66158589-57ec-4f5f-8c30-82f0354370e2)
+<img width="1024" height="934" alt="Image" src="https://github.com/user-attachments/assets/fe3b5d35-4b51-4176-841f-970ee58e221c" />
